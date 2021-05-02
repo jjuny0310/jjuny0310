@@ -9,5 +9,3 @@ jjuny0310/jjuny0310 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 메인
-
-<img src="https://img.shields.io/badge/-JAVA-blue">
