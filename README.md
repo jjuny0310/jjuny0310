@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @jjuny0310
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Skills
+---
+#### Language
+<img src="https://img.shields.io/badge/-JAVA-blue">
+<img src="https://img.shields.io/badge/-Python-red">
+<img src="https://img.shields.io/badge/-JSP-green">
 
-<!---
-jjuny0310/jjuny0310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-메인
+#### Framework
+<img src="https://img.shields.io/badge/framework-Django-green">
+
+#### Database
+<img src="https://img.shields.io/badge/db-MySQL-9cf">
