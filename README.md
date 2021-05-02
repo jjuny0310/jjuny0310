@@ -1,5 +1,4 @@
 # Skills
----
 #### Language
 <img src="https://img.shields.io/badge/-JAVA-blue"> <img src="https://img.shields.io/badge/-Python-red"> <img src="https://img.shields.io/badge/-JSP-green">
 
