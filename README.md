@@ -8,7 +8,7 @@
 📧 **Email : jjuny7712@gmail.com**
 
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjuny0310&show_icons=true&theme=radical)
 
 
 </div>
