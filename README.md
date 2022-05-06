@@ -8,5 +8,5 @@
 📧 **Email : jjuny7712@gmail.com**
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuny0310&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuny0310&layout=compact&theme=dracula)](https://github.com/metleeha)
 </div>
