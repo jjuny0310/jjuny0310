@@ -1,11 +1,9 @@
 
 <div align=center>
 
-# Hello!, I'm [YongJun!](https://iml1111.github.io) 👋
+# Hello!, I'm [YongJun!](https://jjuny0310.github.io) 👋
 
-🗂 **Portfolio : https://iml1111.github.io/**
-
-📚 **Blog : https://blog.naver.com/shino1025**
+🗂 **Portfolio : https://jjuny0310.github.io/**
 
 📧 **Email : jjuny7712@gmail.com**
 
