@@ -8,7 +8,5 @@
 📧 **Email : jjuny7712@gmail.com**
 
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjuny0310&show_icons=true&theme=radical)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuny0310&layout=compact&theme=dracula)](https://github.com/metleeha)
 </div>
