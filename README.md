@@ -1,7 +1,7 @@
 
 <div align=center>
 
-# Hello!, I'm [Yongjun!](https://jjuny0310.github.io) 👋
+# Hello!, I'm [Yongjun!](https://bit.ly/3PjO6iw) 👋
 
   🗂 **Portfolio : https://bit.ly/3PjO6iw**
   
