@@ -1,7 +1,7 @@
 
 <div align=center>
 
-# Hello!, I'm [Yongjun!]() 👋
+# Hello!, I'm [Yongjun!] 👋
 
   <!-- 🗂 **Portfolio : https://bit.ly/3PjO6iw** -->
   
