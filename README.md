@@ -3,7 +3,7 @@
 
 # Hello!, I'm Yongjun! 👋
 
-  <!-- 🗂 **Portfolio : https://bit.ly/3PjO6iw** -->
+  🗂 **Portfolio : https://www.notion.so/e52eb1449bfa4d728f24aa41271cdf41**
   
 :pager: **Blog : https://velog.io/@jjuny7712**
   
