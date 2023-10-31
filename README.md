@@ -48,25 +48,10 @@
 2023.07 [SSAFY] 공통 프로젝트 베스트 팀원 선정
 2021.06 정보처리기사 취득
 ```
-
-# Skills
-### Language
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-
-### Framework
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring&20Boot&logoColor=white)
-
-### DB
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
-
-### Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=green)
-
-# Link 
+#  Contacts & Links:mailbox_with_mail:
 [포트폴리오](https://my.surfit.io/w/1138239875)
-[이력서](https://www.notion.so/LEE-YONG-JUN-863fa1f34ade4c9fb004aa2bc189e6f3)  
 
-#  Contacts :mailbox_with_mail:
+[이력서](https://www.notion.so/LEE-YONG-JUN-863fa1f34ade4c9fb004aa2bc189e6f3)
+
 jjuny7712@gmail.com
   
