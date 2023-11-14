@@ -6,7 +6,7 @@
 🙌 개발에 관한 소통을 좋아하며 성능 개선에 관심이 많습니다.
 🤔 Why? 라는 의문을 가지며 사용 이유를 명확히 알고자 노력합니다.
 🏃‍♂️ 자기 개발에 관심이 많으며 과정과 목표가 뚜렷한 사람이 되고자 합니다.
-👨‍💻 사용자의 편의를 중시하며 일상 생활에 녹아드는 서비스를 개발하고 있습니다.
+👨‍💻 사용자의 편의를 중시하며 일상 생활에 녹아드는 서비스 개발에 일조하고 싶습니다.
 ```
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuny0310&show_icons=true&theme=radical)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjuny7712)](https://solved.ac/jjuny7712)
