@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20YongJun&fontSize=90" />
 
 ### 안녕하세요 👋
 ### 성장을 즐기고 사용자에게 편리한 서비스를 만드는 것이 목표인
