@@ -45,7 +45,7 @@
 </div>
 
 # 깃허브 프로필
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuny0310&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuny0310&show_icons=true&count_private=true&hide_border=true)
 
 # 백준 프로필
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjuny7712)](https://solved.ac/jjuny7712)
