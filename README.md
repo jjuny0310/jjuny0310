@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### 안녕하세요 👋
 ### 성장을 즐기고 사용자에게 편리한 서비스를 만드는 것이 목표인
 ### Back-End Developer 이용준 입니다 😊
@@ -8,8 +10,47 @@
 🏃‍♂️ 코드 품질에 관심이 많으며 디자인 패턴과 좋은 설계에 대해 고민합니다.
 👨‍💻 사용자의 편의를 중시하며 일상 생활에 녹아드는 서비스 개발에 일조하고 싶습니다.
 ```
+# 기술 스택
+<div align=left> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/Jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
+  <img src="https://img.shields.io/badge/Querydsl-6DB34F?style=for-the-badge&logo=querydsl&logoColor=white">
+  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Mybatis-DC382D?style=for-the-badge&logo=mybatis&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <br>
+
+   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+</div>
+
+
+# 깃허브 프로필
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuny0310&show_icons=true&theme=radical)
+
+# 백준 프로필
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjuny7712)](https://solved.ac/jjuny7712)
+
 
 # PROJECTS
 ```
