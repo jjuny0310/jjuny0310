@@ -1,15 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요&fontSize=90)
 
 ### 안녕하세요 👋
 ### 성장을 즐기고 사용자에게 편리한 서비스를 만드는 것이 목표인
 ### Back-End Developer 이용준 입니다 😊
-```
-✌ 경험을 통해 성장하고 다양한 사람들을 만나는 것을 좋아합니다.
-🙌 개발에 관한 소통을 좋아하며 성능 개선에 관심이 많습니다.
-🤔 Why? 라는 의문을 가지며 사용 이유를 명확히 알고자 노력합니다.
-🏃‍♂️ 코드 품질에 관심이 많으며 디자인 패턴과 좋은 설계에 대해 고민합니다.
-👨‍💻 사용자의 편의를 중시하며 일상 생활에 녹아드는 서비스 개발에 일조하고 싶습니다.
-```
+
+✌ **경험을 통해 성장하고 다양한 사람들을 만나는 것을 좋아합니다.**<br>
+🙌 **개발에 관한 소통을 좋아하며 성능 개선에 관심이 많습니다.**<br>
+🤔 **Why? 라는 의문을 가지며 사용 이유를 명확히 알고자 노력합니다.**<br>
+🏃‍♂️ **코드 품질에 관심이 많으며 디자인 패턴과 좋은 설계에 대해 고민합니다.**<br>
+👨‍💻 **사용자의 편의를 중시하며 일상 생활에 녹아드는 서비스 개발에 일조하고 싶습니다.**<br>
+
 # 기술 스택
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -44,56 +44,8 @@
   <br>
 </div>
 
-
 # 깃허브 프로필
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuny0310&show_icons=true&theme=radical)
 
 # 백준 프로필
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjuny7712)](https://solved.ac/jjuny7712)
-
-
-# PROJECTS
-```
-[2023] PROJECTS
-2023.06 - 2023.11 SSAFY 익명 커뮤니티 서비스 개발 및 운영
-2023.08 - 2023.10 자녀의 금융 교육 앱 개발 - 에어뱅크
-2023.07 - 2023.08 온라인 화상인증 알람 앱 개발 - 모여람
-2023.05 - 2023.05 여행 동행 모집 서비스 개발 - TripMate
-
-[2021] PROJECTS
-2021.07 - 2021.11 [졸업 작품] AI 기반 운동 지원 서비스 개발
-
-[2020] PROJECTS
-2020.02 - 2020.11 [한이음] 자기소개서 분석 서비스 개발
-```
----
-## ACTIVITIES
-```
-[2023] ACTIVITIES
-2023.01 - 2023.12.31 삼성 청년 SW 아카데미
-2023.02 - 2023.04 Real MySQL 8.0 스터디
-2023.02 - 2023.10 알고리즘 스터디
-
-[2021] ACTIVITIES
-2021.08 - 2021.12 한국차세대컴퓨팅학회 논문 게재
-2021.02 - 2021.03 [교내] 로봇 스터디
-2021.01 - 2021.12 CGVR 연구실 활동
-
-[2020] ACTIVITIES
-2020.01 - 2020.02 [교내] 딥러닝 스터디
-```
-   
-# Achievement
-```
-2023.10 [SSAFY] 특화 프로젝트 우수상
-2023.09 [SSAFY] 특화 프로젝트 베스트 팀원 선정
-2023.07 [SSAFY] 공통 프로젝트 베스트 팀원 선정
-2021.06 정보처리기사 취득
-```
-#  Contacts & Links:mailbox_with_mail:
-[포트폴리오](https://my.surfit.io/w/1138239875)
-
-[이력서](https://www.notion.so/LEE-YONG-JUN-863fa1f34ade4c9fb004aa2bc189e6f3)
-
-jjuny7712@gmail.com
-  
