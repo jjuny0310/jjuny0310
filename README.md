@@ -18,4 +18,4 @@
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjuny7712)](https://solved.ac/jjuny7712)
 
 # 최근 Velog 포스팅
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jjuny7712)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jjuny7712)](https://velog-readme-stats.vercel.app/api/redirect?name=jjuny7712)
