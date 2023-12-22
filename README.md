@@ -9,7 +9,11 @@
 🏃‍♂️ **전공지식의 중요성을 생각하며 꾸준히 공부하고 있습니다.**<br>
 
 # 기술 스택
-![기술스택](https://github.com/jjuny0310/jjuny0310/assets/59381113/5c59dfd6-7ed5-4ff6-a32f-b9f1f255cddc)
+![기술스택](https://github.com/jjuny0310/jjuny0310/assets/59381113/e56680ce-ed57-442e-8d7b-7e3855d4a743)
+
+# 프로젝트
+![image](https://github.com/jjuny0310/jjuny0310/assets/59381113/446e1ec0-8ad7-4c13-864d-915ef620f2a6)
+
 
 # 깃허브 프로필
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuny0310&show_icons=true&count_private=true&hide_border=true)
